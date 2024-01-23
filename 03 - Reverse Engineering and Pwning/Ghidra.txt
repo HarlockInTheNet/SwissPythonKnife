@@ -1,0 +1,15 @@
+Ulteriore disassembler (Ghidra):
+
+Installazione di Ghidra per Ubuntu (esempio con una specifica versione)
+-	wget 'https://github.com/NationalSecurityAgency/ghidra/releases/download/Ghidra_10.0.1_build/ghidra_10.0.1_PUBLIC_20210708.zip'
+-	unzip ghidra_10.0.1_PUBLIC_20210708.zip
+-	sudo apt install default-jdk
+-	Andare nella cartella scaricata (ci vuole un po’), ad esempio scritta come “ghidra_10.0.1_PUBLIC”
+-	Per Linux, eseguire chmod +x ghidraRun - ./ghidraRun
+-	Per Windows, eseguire con doppio clic ghidraRun.bat
+-	Occorre creare un nuovo progetto (usato per importare di volta in volta i file e disassemblarli)
+-	File – New Project – Non shared project – (Inserire un nome) – Finish
+-	Per importare file -> File – Import file – Select file to import
+-	Se il file non venisse importato, ricordarsi di usare esattamente la JDK 11 oppure la JDK 17
+Da qui:
+Si clicchi su "Functions" e si esamini funzione e pseudocodice

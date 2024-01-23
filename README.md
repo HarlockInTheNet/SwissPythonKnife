@@ -1,5 +1,7 @@
 # CyberSec
 
+---
+
 ## Cryptograpy
 
 ### Legend
@@ -36,10 +38,18 @@
 
 ## Web Security
 
+### Legend
+
+### Files
+- web.txt
+    - Browser
+    - Wireshark:
+    - Fetch (usando curl):
+    - SQL injection
 ---
 
-## Reverse Engineering
+## Reverse Engineering and Pwning
 
----
+### Legend
 
-## Pwning
+### Files
