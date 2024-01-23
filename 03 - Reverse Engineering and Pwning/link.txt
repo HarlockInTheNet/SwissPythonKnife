@@ -1,0 +1,30 @@
+Cheatsheet Ghidra:
+https://ghidra-sre.org/CheatSheet.html 
+
+Riferimenti materiale ottimo:
+https://security.di.unimi.it/sicurezza1314/slides/
+http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html 
+https://trustfoundry.net/2019/07/18/basic-rop-techniques-and-tricks/
+https://infosecwriteups.com/linux-reverse-engineering-ctfs-for-beginners-4cf03ff2cfb4
+https://cs.brown.edu/courses/cs033/docs/guides/x64_cheatsheet.pdf
+https://web.stanford.edu/class/cs107/resources/x86-64-reference.pdf
+https://www.felixcloutier.com/x86/
+https://zestedesavoir.com/articles/pdf/158/ecrivez-votre-premier-shellcode-en-asm-x86.pdf
+
+Radare2:
+https://book.rada.re/
+
+Riferimenti tools ottimi:
+https://github.com/apsdehal/aWEsoMe-cTf
+https://github.com/JohnHammond/ctf-katana
+https://dvd848.github.io/CTFs/CheatSheet.html
+https://github.com/Rajchowdhury420/CTF-CheatSheet
+
+https://www.rapidtables.com/convert/number/hex-to-ascii.html
+http://www.brescianet.com/appunti/vari/tabellaascii/ascii.htm
+
+IDA Offset:
+https://books.google.it/books?id=5p7VAwAAQBAJ&pg=PA337&lpg=PA337&dq=ida+offset+var&source=bl&ots=uyu2Nh8trp&sig=ACfU3U32vriGuBWgDiMtBeRGLMl9Un2gkQ&hl=it&sa=X&ved=2ahUKEwiJms7Z4sL8AhUA87sIHQHhDvUQ6AF6BAgYEAM#v=onepage&q=ida%20offset%20var&f=false
+
+Stack:
+https://ctf101.org/binary-exploitation/what-is-the-stack/ 
